@@ -1,53 +1,41 @@
-### 🏗️ Así construimos tecnología en Buk
+# 🏗️ Evidencia: Arquitectura, Escala y Prácticas Reales 
+ 
+No buscamos convencerte con promesas; queremos mostrarte cómo trabajamos realmente. Acá compartimos nuestras decisiones de diseño, métricas de resiliencia y cómo enfrentamos los desafíos y datos reales de producción en el día a día.
 
-Detrás de cada producto hay decisiones técnicas, desafíos de escala y equipos que buscan construir soluciones simples, sólidas y preparadas para crecer.
+<img width="470" height="282" alt="02The Beauty of Boring Tech" src="https://github.com/user-attachments/assets/3ca4d56c-9fc8-40fa-b70b-d64425653e3c" />
 
-Acá puedes conocer un poco más de la tecnología detrás de Buk 👇
+## 🛠️ Filosofía "Boring Technology": Por qué elegimos nuestro stack
 
+Nuestra elección tecnológica es intencional. Utilizamos **Ruby on Rails, PostgreSQL, TypeScript, PHP y Kubernetes**.
 
-<img src="./02The%20Beauty%20of%20Boring%20Tech.gif" alt="The Beauty of Boring Tech" width="550" />
+En lugar de perseguir la tecnología de moda, priorizamos la **velocidad de entrega y la estabilidad** para responder a la complejidad regulatoria y tributaria de operar simultáneamente en cinco países.
 
+<!-- VIDEO DE JUSTIFICACIÓN DE STACK -->
+[▶️ Ver Video: Por qué elegimos Boring Tech](https://drive.google.com/file/d/19sX57zgUO_pkUgP415fEGs_pyfN0Wt4v/view?usp=sharing)
 
-### 🛠️ Elegimos tecnología con propósito
+## 🧩 Arquitectura y Resiliencia en Escala (El Monolito)
 
-No buscamos usar una tecnología solo porque está de moda. Elegimos herramientas que nos permitan construir de manera simple, estable y sostenible.
+Trabajamos con una arquitectura híbrida, combinando nuestro **monolito en Rails** con microservicios enfocados en dominios específicos.
 
-Nuestro stack incluye tecnologías como **Ruby on Rails, PostgreSQL, TypeScript, PHP y Kubernetes**, que nos permiten responder a los desafíos de una plataforma que opera en distintos países de Latinoamérica.
+### ¿Cómo respondemos a los momentos de mayor demanda?
 
-#### [▶️ Conoce por qué apostamos por Boring Tech](https://drive.google.com/file/d/19sX57zgUO_pkUgP415fEGs_pyfN0Wt4v/view?usp=sharing)
+Contamos con una arquitectura robusta en **Ruby on Rails**, preparada para responder a grandes volúmenes de transacciones. En frontend, trabajamos con **monorepos y librerías de componentes centralizadas** para mantener consistencia y un tipado estricto.
 
+Todo esto se apoya en infraestructura **AWS Multi-Región**, diseñada para mantener una alta disponibilidad incluso en los momentos de mayor demanda.
 
-### 🧩 Una arquitectura preparada para crecer
+<!-- VIDEO DECISIONES DE DISEÑO Y ARQUITECTURA -->
+[▶️ Ver Video: La arquitectura y el Monolito en Buk](https://drive.google.com/file/d/1sNOn8tAPKEXARGmDW0quZK3zYvmkLRgB/view?usp=drive_link)
 
-¿Cómo construimos una plataforma capaz de responder a los desafíos de más de **2 millones de usuarios**?
+## 🚢 Despliegues Estructurados y Cultura de Error
 
-Trabajamos sobre una arquitectura que busca equilibrar simplicidad, estabilidad y escalabilidad, tomando decisiones técnicas según las necesidades reales de nuestros productos.
+Escalar rápido también significa estar preparados cuando algo falla. Por eso, contamos con prácticas que nos permiten desplegar de forma segura y aprender de lo que ocurre en producción:
 
-Desde nuestro core en **Ruby on Rails** hasta el uso de **PostgreSQL, AWS y Kubernetes**, cada decisión tiene detrás un problema que resolver.
+* **Integración Continua (CI/CD):** con una alta cobertura de pruebas automatizadas.
+* **Feature Flags:** nos permiten separar los despliegues técnicos de los lanzamientos de nuevas funcionalidades.
+* **Blameless Post-Mortems:** cuando ocurre un incidente, analizamos la causa raíz sin buscar culpables, poniendo el foco en aprender y mejorar como equipo.
 
-#### [🏗️ Conoce la arquitectura detrás de Buk](https://drive.google.com/file/d/1sNOn8tAPKEXARGmDW0quZK3zYvmkLRgB/view?usp=drive_link)
+## 👥 El Cliente en el Centro
 
+Como ingenieros en Buk, buscamos entender **qué construimos, por qué lo hacemos y para quién**. Trabajamos con sistemas de nómina y recursos humanos, donde sabemos que cada decisión técnica puede tener un impacto real en miles de organizaciones y sus colaboradores.
 
-### 🚀 Construimos, lanzamos y aprendemos
-
-Ser dueños de lo que construimos también significa hacernos cargo de lo que ocurre cuando llega a producción.
-
-Por eso trabajamos con prácticas que nos permiten lanzar cambios de manera segura, aprender rápido y mejorar continuamente:
-
-- **CI/CD** para integrar y desplegar cambios continuamente.
-- **Pruebas automatizadas** para cuidar la calidad de lo que construimos.
-- **Feature Flags** para controlar cómo liberamos nuevas funcionalidades.
-- **Blameless Post-Mortems** para transformar los incidentes en oportunidades de aprendizaje.
-
-
-### 👥 Construimos pensando en las personas
-
-Detrás de cada decisión técnica hay personas que utilizan lo que construimos.
-
-Nuestra tecnología participa en procesos importantes para miles de organizaciones y sus colaboradores, por eso buscamos entender no solo **qué** estamos construyendo, sino también **por qué y para quién**.
-
-La tecnología es el medio. El impacto está en las personas. 💙
-
-
----
-
+Por eso, construimos pensando en esa responsabilidad todos los días.

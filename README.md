@@ -39,3 +39,5 @@ Escalar rápido también significa estar preparados cuando algo falla. Por eso, 
 Como ingenieros en Buk, buscamos entender **qué construimos, por qué lo hacemos y para quién**. Trabajamos con sistemas de nómina y recursos humanos, donde sabemos que cada decisión técnica puede tener un impacto real en miles de organizaciones y sus colaboradores.
 
 Por eso, construimos pensando en esa responsabilidad todos los días.
+
+*Siguiente paso:* 👉[Explora nuestro Pilar 3: Conversión (Open Source y Carreras)](https://github.com/Javipizarrot/conversi-n_y_comunidad_buker.git)

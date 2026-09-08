@@ -2,7 +2,9 @@
  
 No buscamos convencerte con promesas; queremos mostrarte cómo trabajamos realmente. Acá compartimos nuestras decisiones de diseño, métricas de resiliencia y cómo enfrentamos los desafíos y datos reales de producción en el día a día.
 
-<img width="470" height="282" alt="02The Beauty of Boring Tech" src="https://github.com/user-attachments/assets/3ca4d56c-9fc8-40fa-b70b-d64425653e3c" />
+<p align="center">
+  <img src="02The Beauty of Boring Tech (1).gif" width="600">
+</p>
 
 ### 🛠️ Filosofía "Boring Technology": Por qué elegimos nuestro stack
 

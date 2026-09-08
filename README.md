@@ -1,4 +1,4 @@
-### 🏗️ Evidencia: Arquitectura, Escala y Prácticas Reales 
+## 🏗️ Evidencia: Arquitectura, Escala y Prácticas Reales 
  
 No buscamos convencerte con promesas; queremos mostrarte cómo trabajamos realmente. Acá compartimos nuestras decisiones de diseño, métricas de resiliencia y cómo enfrentamos los desafíos y datos reales de producción en el día a día.
 

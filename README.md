@@ -1,10 +1,10 @@
-# 🏗️ Evidencia: Arquitectura, Escala y Prácticas Reales 
+### 🏗️ Evidencia: Arquitectura, Escala y Prácticas Reales 
  
 No buscamos convencerte con promesas; queremos mostrarte cómo trabajamos realmente. Acá compartimos nuestras decisiones de diseño, métricas de resiliencia y cómo enfrentamos los desafíos y datos reales de producción en el día a día.
 
 <img width="470" height="282" alt="02The Beauty of Boring Tech" src="https://github.com/user-attachments/assets/3ca4d56c-9fc8-40fa-b70b-d64425653e3c" />
 
-## 🛠️ Filosofía "Boring Technology": Por qué elegimos nuestro stack
+### 🛠️ Filosofía "Boring Technology": Por qué elegimos nuestro stack
 
 Nuestra elección tecnológica es intencional. Utilizamos **Ruby on Rails, PostgreSQL, TypeScript, PHP y Kubernetes**.
 
@@ -13,7 +13,7 @@ En lugar de perseguir la tecnología de moda, priorizamos la **velocidad de entr
 <!-- VIDEO DE JUSTIFICACIÓN DE STACK -->
 [▶️ Ver Video: Por qué elegimos Boring Tech](https://drive.google.com/file/d/19sX57zgUO_pkUgP415fEGs_pyfN0Wt4v/view?usp=sharing)
 
-## 🧩 Arquitectura y Resiliencia en Escala (El Monolito)
+### 🧩 Arquitectura y Resiliencia en Escala (El Monolito)
 
 Trabajamos con una arquitectura híbrida, combinando nuestro **monolito en Rails** con microservicios enfocados en dominios específicos.
 
@@ -26,7 +26,7 @@ Todo esto se apoya en infraestructura **AWS Multi-Región**, diseñada para mant
 <!-- VIDEO DECISIONES DE DISEÑO Y ARQUITECTURA -->
 [▶️ Ver Video: La arquitectura y el Monolito en Buk](https://drive.google.com/file/d/1sNOn8tAPKEXARGmDW0quZK3zYvmkLRgB/view?usp=drive_link)
 
-## 🚢 Despliegues Estructurados y Cultura de Error
+### 🚢 Despliegues Estructurados y Cultura de Error
 
 Escalar rápido también significa estar preparados cuando algo falla. Por eso, contamos con prácticas que nos permiten desplegar de forma segura y aprender de lo que ocurre en producción:
 
@@ -34,7 +34,7 @@ Escalar rápido también significa estar preparados cuando algo falla. Por eso, 
 * **Feature Flags:** nos permiten separar los despliegues técnicos de los lanzamientos de nuevas funcionalidades.
 * **Blameless Post-Mortems:** cuando ocurre un incidente, analizamos la causa raíz sin buscar culpables, poniendo el foco en aprender y mejorar como equipo.
 
-## 👥 El Cliente en el Centro
+### 👥 El Cliente en el Centro
 
 Como ingenieros en Buk, buscamos entender **qué construimos, por qué lo hacemos y para quién**. Trabajamos con sistemas de nómina y recursos humanos, donde sabemos que cada decisión técnica puede tener un impacto real en miles de organizaciones y sus colaboradores.
 

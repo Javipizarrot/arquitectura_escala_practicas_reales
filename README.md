@@ -12,8 +12,8 @@ Nuestra elección tecnológica es intencional. Utilizamos **Ruby on Rails, Postg
 
 En lugar de perseguir la tecnología de moda, priorizamos la **velocidad de entrega y la estabilidad** para responder a la complejidad regulatoria y tributaria de operar simultáneamente en cinco países.
 
-<!-- VIDEO DE JUSTIFICACIÓN DE STACK -->
-[▶️ Ver Video: Por qué elegimos Boring Tech](https://drive.google.com/file/d/19sX57zgUO_pkUgP415fEGs_pyfN0Wt4v/view?usp=sharing)
+**<!-- VIDEO DE JUSTIFICACIÓN DE STACK -->
+[▶️ Ver Video: Por qué elegimos Boring Tech](https://drive.google.com/file/d/19sX57zgUO_pkUgP415fEGs_pyfN0Wt4v/view?usp=sharing)**
 
 ### 🧩 Arquitectura y Resiliencia en Escala (El Monolito)
 
@@ -25,8 +25,8 @@ Contamos con una arquitectura robusta en **Ruby on Rails**, preparada para respo
 
 Todo esto se apoya en infraestructura **AWS Multi-Región**, diseñada para mantener una alta disponibilidad incluso en los momentos de mayor demanda.
 
-<!-- VIDEO DECISIONES DE DISEÑO Y ARQUITECTURA -->
-[▶️ Ver Video: La arquitectura y el Monolito en Buk](https://drive.google.com/file/d/1sNOn8tAPKEXARGmDW0quZK3zYvmkLRgB/view?usp=drive_link)
+**<!-- VIDEO DECISIONES DE DISEÑO Y ARQUITECTURA -->
+[▶️ Ver Video: La arquitectura y el Monolito en Buk](https://drive.google.com/file/d/1sNOn8tAPKEXARGmDW0quZK3zYvmkLRgB/view?usp=drive_link)**
 
 ### 🚢 Despliegues Estructurados y Cultura de Error
 

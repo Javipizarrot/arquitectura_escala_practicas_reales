@@ -42,4 +42,4 @@ Como ingenieros en Buk, buscamos entender **qué construimos, por qué lo hacemo
 
 Por eso, construimos pensando en esa responsabilidad todos los días.
 
-*Siguiente paso:* 👉[Explora nuestro Pilar 3: Conversión (Comunidad, Open Source y nuestro proceso)](https://github.com/Javipizarrot/conversi-n_y_comunidad_buker.git)
+*Siguiente paso:* 👉 **[Explora nuestro Pilar 3: Conversión (Comunidad, Open Source y nuestro proceso)](https://github.com/Javipizarrot/conversi-n_y_comunidad_buker.git)**

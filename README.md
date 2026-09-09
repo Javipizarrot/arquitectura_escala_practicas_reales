@@ -8,7 +8,7 @@ No buscamos convencerte con promesas; queremos mostrarte cómo trabajamos realme
 
 ### 🛠️ Filosofía "Boring Technology": Por qué elegimos nuestro stack
 
-Nuestra elección tecnológica es intencional. Utilizamos **Ruby on Rails, PostgreSQL, TypeScript, PHP y Kubernetes**.
+Nuestra elección tecnológica es intencional. Utilizamos **Ruby on Rails♦️, PostgreSQL, TypeScript, PHP y Kubernetes**.
 
 En lugar de perseguir la tecnología de moda, priorizamos la **velocidad de entrega y la estabilidad** para responder a la complejidad regulatoria y tributaria de operar simultáneamente en cinco países.
 
